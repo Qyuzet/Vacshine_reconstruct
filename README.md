@@ -2,6 +2,8 @@
 
 Welcome to **VACSHINE**, a shell-based vaccine registry project designed to manage and track vaccination records. This project is implemented in C and provides a console-based interface for users to interact with the registry.
 
+[![FORK TO TRY!](https://replit.com/badge?theme=dark&caption=FORK%20TO%20TRY!)](https://replit.com/@RikiA1/VACSHINE-Console-based-vaccine-registry)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -72,8 +74,8 @@ Upon running the application, you will be presented with a menu of options to:
 
 You can try out the VACSHINE system directly on Replit. Fork the project and run it in your own Replit environment:
 
-[![Run on Replit](https://replit.com/@RikiA1/VACSHINE-Console-based-vacchine-registry)](https://replit.com/@RikiA1/VACSHINE-Console-based-vacchine-registry#main.c)
-[![FORK TO TRY!](https://replit.com/badge?theme=dark&caption=FORK%20TO%20TRY!)](https://replit.com/@RikiA1/VACSHINE-Console-based-vacchine-registry)
+[![FORK TO TRY!](https://replit.com/badge?theme=dark&caption=FORK%20TO%20TRY!)](https://replit.com/@RikiA1/VACSHINE-Console-based-vaccine-registry)
+
 ## Project Structure
 
 ```

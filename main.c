@@ -21,7 +21,7 @@ void certificate();
 //------REGISTRATION VARIABLE-----------------------------------------------------------------------------------------------------
 
     char cname[25]; //for storing name
-    char cadd[25];  //for storing adress
+    char cadd[25];  //for storing address
     int nik[18];    //for storing NIK
     int age;        //for storing age
 
@@ -143,7 +143,7 @@ printf("NAME   :");
 scanf(" %[^\n]", &cname); 
 printf("AGE    :"); 
 scanf(" %d", &age); 
-printf("ADRESS :"); 
+printf("ADDRESS :"); 
 scanf(" %[^\n]", &cadd);
 printf("NIK    :"); 
 scanf(" %[^\n]", &nik);

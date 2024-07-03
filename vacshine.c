@@ -1,6 +1,19 @@
 // Online C compiler to run C program online
 #include <stdio.h>
 
+// Function declarations
+void pranscreen();
+void praregnreg();
+void regis();
+void q1();
+void q2();
+void vlda(int a,int b,int c,int d,int e,int f,int g,int h,int i,int j,int k,int l, int m, int n, int o, int hbaoc, char dmt, int cdf, char ceda, int cons);
+void screening();
+void vldb(int bt, char bp);
+void que();
+void certificate();
+
+
 //------PRA REGISTRATION VARIABLE-------------------------------------------------------------------------------------------------
 
     char gen;       //for storing type of patient decision

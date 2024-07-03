@@ -3,6 +3,8 @@
 Welcome to **VACSHINE**, a shell-based vaccine registry project designed to manage and track vaccination records. This project is implemented in C and provides a console-based interface for users to interact with the registry.
 
 [![FORK TO TRY!](https://replit.com/badge?theme=dark&caption=FORK%20TO%20TRY!)](https://replit.com/@RikiA1/VACSHINE-Console-based-vaccine-registry)
+![vacshine-demo-fast](https://github.com/Qyuzet/c-shell-based-vaccine-registry--vacshine/assets/93258081/a455b378-846d-400c-aab9-4ad4aef97fdf)
+
 
 ## Table of Contents
 
